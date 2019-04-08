@@ -1,0 +1,19 @@
+body {
+  background-color: lightgray;
+  text-align: center;
+
+}
+
+#question {
+  height: 3em;
+}
+
+h2 {
+  margin: 0;
+}
+
+table {
+  margin-left: 15%;
+  margin-right: 10%;
+  width: 80%;
+}
